@@ -167,11 +167,30 @@ h2{
   -ms-transform: scale(1.2);
     transform: scale(1.2);
 }
-/*. {
+.nav-link{
   opacity: 1;
 }
-КАТАЛОГ
-.:hover {
+
+.nav-link:hover{
   opacity: 0.6;
 }
-*/
+.footer{
+    color: grey;
+}
+.onas{
+    color: blue;
+}
+.ola{
+    height: 70px;
+    align-items: center;
+    background-color: #05BC52;
+    font-size: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+table{
+    margin: auto;
+    width: 80%;
+}
